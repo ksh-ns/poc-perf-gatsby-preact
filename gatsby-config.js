@@ -12,5 +12,6 @@ module.exports = {
         start_url: "/",
       },
     },
+    "gatsby-plugin-preact",
   ],
 };
