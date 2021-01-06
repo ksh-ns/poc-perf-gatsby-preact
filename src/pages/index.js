@@ -15,7 +15,7 @@ function Index() {
 
       <main>
         <h1>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+        Welcome to <a href="https://www.gatsbyjs.com/">Gatsby + Preact!</a>
         </h1>
 
         <p>
